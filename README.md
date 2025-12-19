@@ -38,15 +38,11 @@ Focused on continuous learning and improving every day.**
 
   ### Contact me
 
-  <a href="https://github.com/CRhernandez1" target="_blank">
-    <img src="https://img.shields.io/badge/Github-CRhernandez1-green?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
   <a href="mailto:cristianreyesh01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-cristianreyesh01@gmail.com-teal?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://www.www.linkedin.com/in/cristianrh01" target="_blank">
+  <a href="https://www.linkedin.com/in/cristianrh01" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
